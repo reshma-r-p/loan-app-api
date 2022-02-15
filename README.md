@@ -19,6 +19,10 @@ Borrower can register to our application and can be logged in
 Once he/she logggedin, he/she can apply for a laon. The loan can be edited untill, it is in draft state.
 Once submit, the issuer can either approve or reject the loan. Approved loans should start a repayment from the next week onwards !
 
+This project also includes test cases.
+
+As of now, the apis are simple one, with less validations.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -44,4 +48,6 @@ To start with, you can run command "php artisan install:app" and follow the step
 You can find all sample api from the below postman collection
 
 https://www.getpostman.com/collections/cb10782689449799116b
+
+
 
