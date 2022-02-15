@@ -10,9 +10,10 @@
 ## About Project
 
 It is an app that allows authenticated users to go through a loan application. The app mainly has 3 users,
-1.Admin
-2.Borrower
-3.Lender
+
+1. Admin
+2. Borrower
+3. Lender
 
 Borrower can register to our application and can be logged in
 Once he/she logggedin, he/she can apply for a laon. The loan can be edited untill, it is in draft state.
@@ -36,4 +37,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## How to install this application?
 
 To start with, you can run command "php artisan install:app" and follow the steps mentioned !
+
+
+## Where to find sample api collection ?
+
+You can find all sample api from the below postman collection
+
+https://www.getpostman.com/collections/cb10782689449799116b
 
